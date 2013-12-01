@@ -1,0 +1,12 @@
+C:\Users\jason\Documents\Visual Studio 2012\Projects\Library1\Library1\bin\Debug\Library1.XML
+C:\Users\jason\Documents\Visual Studio 2012\Projects\Library1\Library1\bin\Debug\Library1.dll
+C:\Users\jason\Documents\Visual Studio 2012\Projects\Library1\Library1\bin\Debug\Library1.pdb
+C:\Users\jason\Documents\Visual Studio 2012\Projects\Library1\Library1\bin\Debug\FSharp.Core.dll
+C:\Users\jason\Documents\Visual Studio 2012\Projects\Library1\Library1\bin\Debug\Unquote.dll
+C:\Users\jason\Documents\Visual Studio 2012\Projects\Library1\Library1\bin\Debug\xunit.dll
+C:\Users\jason\Documents\Visual Studio 2012\Projects\Library1\Library1\bin\Debug\FSharp.Core.xml
+C:\Users\jason\Documents\Visual Studio 2012\Projects\Library1\Library1\bin\Debug\Unquote.xml
+C:\Users\jason\Documents\Visual Studio 2012\Projects\Library1\Library1\bin\Debug\xunit.xml
+C:\Users\jason\Documents\Visual Studio 2012\Projects\Library1\Library1\obj\Debug\Library1.fsprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\Visual Studio 2012\Projects\Library1\Library1\obj\Debug\Library1.dll
+C:\Users\jason\Documents\Visual Studio 2012\Projects\Library1\Library1\obj\Debug\Library1.pdb
